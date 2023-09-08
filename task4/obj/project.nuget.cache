@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+zgqSYNSD0/EpDduKePWuwFOzu/7OMl2EQh1xX1czZjFDQ4OZR3mev7vWMw/JfCnMP+Ed4GFDccT2RfaqGYt8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atiya.mahboob\\Documents\\task4\\task4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atiya.mahboob\\.nuget\\packages\\dynamiclanguageruntime\\1.3.4\\dynamiclanguageruntime.1.3.4.nupkg.sha512",
+    "C:\\Users\\atiya.mahboob\\.nuget\\packages\\ironpython\\3.4.1\\ironpython.3.4.1.nupkg.sha512",
+    "C:\\Users\\atiya.mahboob\\.nuget\\packages\\ironpython.stdlib\\3.4.1\\ironpython.stdlib.3.4.1.nupkg.sha512",
+    "C:\\Users\\atiya.mahboob\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\atiya.mahboob\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
